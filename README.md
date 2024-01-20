@@ -12,7 +12,7 @@ Bienvenue sur mon portefolio de visualisation, où l'art rencontre la data. Je s
 
 Découvrez comment j'ai utilisé des graphiques interactifs pour illustrer les tendances du marché financier au fil du temps. Cette visualisation offre une compréhension approfondie des fluctuations et des opportunités.
 
-<iframe src="https://viz.bfs.admin.ch/assets/14/gd-14.03.04.03-wr-3/gd-d-14.03.04.03-wr-3.html" width="100%" height="600" frameborder="0" allowfullscreen="true"></iframe>
+<iframe src="https://viz.bfs.admin.ch/assets/14/gd-14.03.04.03-wr-3/gd-d-14.03.04.03-wr-3.html" width="100%" height="100%" frameborder="0" allowfullscreen="true"></iframe>
 
 ### 2. Cartographie Dynamique des Données Géographiques
 
