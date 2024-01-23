@@ -18,6 +18,7 @@ Découvrez comment j'ai utilisé des graphiques interactifs pour illustrer les t
 
 <div class="bfsviz-widget" data-vizid="gd-14.03.04.05-wr-5" data-lang="de" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
 
+<div class="bfsviz-widget" data-vizid="gd-02.02-01" data-lang="fr" data-state-year="1979/85" data-state-region="CH" data-state-ENV="desktop"></div> <script async src="https://viz.bfs.admin.ch/https://viz.bfs.admin.ch/libs/viz-bfs/widget/widget-v1.3.4.js"></script>
 ### 2. Cartographie Dynamique des Données Géographiques
 
 Explorez le monde à travers mes cartes interactives qui mettent en lumière des données géographiques complexes. Des cartes choroplèthes aux visualisations 3D, chaque projet offre une perspective unique sur notre planète.
