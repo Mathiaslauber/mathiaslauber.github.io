@@ -30,7 +30,16 @@ Découvrez comment j'ai utilisé des graphiques interactifs pour illustrer les t
 
 <div class="bfsviz-widget" data-vizid="gd-15.06.02-v3" data-lang="en" data-state-level="sek2" data-state-region="[&#34;CH&#34;,&#34;ZH&#34;]" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
 
-<div class="bfsviz-widget" data-vizid="gd-14.03.04.06-wr-2" data-lang="de" data-state-kanton="[\"ZH\",\"BE\"]" data-state-ageGroup="65undmehr" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7.23/widget-v1.3.5/widget.js"></script>
+<div class="bfsviz-widget" data-vizid="gd-14.03.04.06-wr-2" data-lang="de" data-state-kanton="[ZH, BE]" data-state-ageGroup="65undmehr" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7.23/widget-v1.3.5/widget.js"></script>
+<div 
+    class="bfsviz-widget"
+    data-vizid="gd-14.03.04.06-wr-2"
+    data-lang="de"
+    data-imethod="iframe"
+    >Wöchentliche Todesfälle nach Kanton</div>
+                               
+<script async src="https://viz.bfs.admin.ch/libs/viz-bfs/widget/widget-v1.3.6.js"></script>
+<iframe src="https://viz.bfs.admin.ch/assets/14/gd-14.03.04.06-wr-2/gd-e-14.03.04.06-wr-2.html" width="100%" height="600" frameborder="0" allowfullscreen="true"></iframe>
 
 ### 2. Cartographie Dynamique des Données Géographiques
 
