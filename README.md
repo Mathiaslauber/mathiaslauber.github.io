@@ -22,6 +22,10 @@ Découvrez comment j'ai utilisé des graphiques interactifs pour illustrer les t
 
 <div class="bfsviz-widget" data-vizid="gd-02.02-04-UF" data-lang="fr" data-state-region="CH" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
 
+<iframe title="Différences de revenu médian après contrôle des variables sociodémographiques
+"aria-label="Diagramme en barres" id="datawrapper-chart-2jv3Z" src="https://datawrapper.dwcdn.net/6f4461a8fe4a9032a203ba4a9afc6e93/10/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;"height="704" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
 ### 2. Cartographie Dynamique des Données Géographiques
 
 Explorez le monde à travers mes cartes interactives qui mettent en lumière des données géographiques complexes. Des cartes choroplèthes aux visualisations 3D, chaque projet offre une perspective unique sur notre planète.
