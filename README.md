@@ -30,7 +30,7 @@ Découvrez comment j'ai utilisé des graphiques interactifs pour illustrer les t
 
 <div class="bfsviz-widget" data-vizid="gd-15.06.02-v3" data-lang="en" data-state-level="sek2" data-state-region="[&#34;CH&#34;,&#34;ZH&#34;]" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
 
-<div class="bfsviz-widget" data-vizid="gd-14.03.04.06-wr-2" data-lang="de" data-state-kanton="["ZH","BE"]" data-state-ageGroup="65undmehr" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7.23/widget-v1.3.5/widget.js"></script>
+<div class="bfsviz-widget" data-vizid="gd-14.03.04.06-wr-2" data-lang="de" data-state-kanton="[\"ZH\",\"BE\"]" data-state-ageGroup="65undmehr" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7.23/widget-v1.3.5/widget.js"></script>
 
 ### 2. Cartographie Dynamique des Données Géographiques
 
