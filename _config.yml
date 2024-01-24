@@ -1,4 +1,36 @@
 title: Mathias Lauber Portefolio
 showdownloads: true
-theme: jekyll-theme-minima
-description: Bookmark this to keep an eye on my project updates!
+
+
+
+# Nom de votre site
+#name: Mathias Lauber Portefolio
+
+# Description de votre site
+description: Bienvenue sur mon portfolio en ligne !
+
+# Thème à utiliser (minimal) ##slate
+theme: jekyll-theme-minimal
+
+# Configuration spécifique au thème minimal
+theme_config:
+  # Liens sociaux
+  github_username: votre-nom-d-utilisateur-github
+  twitter_username: votre-nom-twitter
+  linkedin_username: votre-nom-linkedin
+
+  # Paramètres pour la barre latérale
+  show_sidebar: true
+  sidebar_items:
+    - title: Accueil
+      url: /
+    - title: Projets
+      url: /projects
+    - title: Blog
+      url: /blog
+
+# Paramètres globaux
+title: Votre Nom
+subtitle: Développeur Web passionné
+author: Votre Nom
+email: votre@email.com
