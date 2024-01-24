@@ -12,9 +12,12 @@ Bienvenue sur mon portefolio de visualisation, où l'art rencontre la data. Je s
 
 Découvrez comment j'ai utilisé des graphiques interactifs pour illustrer les tendances du marché financier au fil du temps. Cette visualisation offre une compréhension approfondie des fluctuations et des opportunités.
 
-<iframe src="https://viz.bfs.admin.ch/assets/14/gd-14.03.04.03-wr-3/gd-e-14.03.04.03-wr-3.html" width="100%" height="400" frameborder="0" allowfullscreen="true"></iframe>
+[//]: # (<iframe src="https://viz.bfs.admin.ch/assets/14/gd-14.03.04.03-wr-3/gd-e-14.03.04.03-wr-3.html" width="100%" height="400" frameborder="0" allowfullscreen="true"></iframe>)
 
-<iframe src="https://viz.bfs.admin.ch/assets/14/gd-14.03.04.05-wr-5/gd-e-14.03.04.05-wr-5.html" width="100%" height="400" frameborder="0" allowfullscreen="true"></iframe>
+[//]: # (<iframe src="https://viz.bfs.admin.ch/assets/14/gd-14.03.04.05-wr-5/gd-e-14.03.04.05-wr-5.html" width="100%" height="400" frameborder="0" allowfullscreen="true"></iframe>)
+
+<div class="bfsviz-widget" data-vizid="gd-14.03.04.03-wr-3" data-lang="en" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
+
 
 <div class="bfsviz-widget" data-vizid="gd-14.03.04.05-wr-5" data-lang="de" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
 
