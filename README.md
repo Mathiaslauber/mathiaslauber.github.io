@@ -9,6 +9,17 @@ Bienvenue sur mon portefolio de visualisation, où l'art rencontre la data. Je s
 ## Projets Principaux
 
 ### 1. Visualisation Interactive des Tendances du Marché
+<details>
+  <summary>Cliquez pour dérouler</summary>
+
+  ### Section 1
+  - Élément 1.1
+  - Élément 1.2
+
+  ### Section 2
+  - Élément 2.1
+  - Élément 2.2
+</details>
 
 Découvrez comment j'ai utilisé des graphiques interactifs pour illustrer les tendances du marché financier au fil du temps. Cette visualisation offre une compréhension approfondie des fluctuations et des opportunités.
 
