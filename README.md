@@ -25,9 +25,8 @@ Découvrez comment j'ai utilisé des graphiques interactifs pour illustrer les t
 
 <div style="min-height:624px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/0fb6d3928c2826fdc74284a3d7d2bf7f/1/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/0fb6d3928c2826fdc74284a3d7d2bf7f/1/full.png" alt="" /></noscript></div>
 
-<iframe title="Neue Inverkehrsetzungen von Strassenfahrzeugen (Copier)" aria-label="Tabelle" id="datawrapper-chart-M5c49" src="https://datawrapper.dwcdn.net/0fb6d3928c2826fdc74284a3d7d2bf7f/1/" scrolling="no" frameborder="0" style="border: none;" width="550" height="624" data-external="1"></iframe>
 
-<iframe title="The five most frequent last names by commune*, 2021" aria-label="Carte" id="datawrapper-chart-SEelH" src="https://datawrapper.dwcdn.net/829268024b388597b91a49f7d76ff4ef/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="549" data-external="1"></iframe>
+<div style="min-height:560px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/d0add131f4000d30db465143ff411997/5/embed.js?v=5" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/d0add131f4000d30db465143ff411997/5/full.png" alt="" /></noscript></div>
 
 
 [//]: # (liens obslotèes<iframe src="https://viz.bfs.admin.ch/assets/14/gd-14.03.04.03-wr-3/gd-e-14.03.04.03-wr-3.html" width="100%" height="400" frameborder="0" allowfullscreen="true"></iframe>)
