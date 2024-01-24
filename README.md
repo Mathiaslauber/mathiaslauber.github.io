@@ -22,11 +22,15 @@ Bienvenue sur mon portefolio de visualisation, où l'art rencontre la data. Je s
 </details>
 
 Découvrez comment j'ai utilisé des graphiques interactifs pour illustrer les tendances du marché financier au fil du temps. Cette visualisation offre une compréhension approfondie des fluctuations et des opportunités.
+
 <iframe title="Part des personnes présentant une forte routine dans l'emploi, selon le sexe, l'âge, la nationalité et la formation, en 2022" aria-label="Diagramme en barres" id="datawrapper-chart-8ijFS" src="https://datawrapper.dwcdn.net/878d7d38e18b6b5a87fe5e0751839964/7/" scrolling="no" frameborder="0" style="border: none;" width="550" height="638" data-external="1"></iframe>
 <div style="min-height:624px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/0fb6d3928c2826fdc74284a3d7d2bf7f/1/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/0fb6d3928c2826fdc74284a3d7d2bf7f/1/full.png" alt="" /></noscript></div>
-<iframe title="Neue Inverkehrsetzungen von Strassenfahrzeugen" aria-label="Tabelle" id="datawrapper-chart-M5c49" src="https://datawrapper.dwcdn.net/0fb6d3928c2826fdc74284a3d7d2bf7f/1/" scrolling="no" frameborder="0" style="border: none;" width="550" height="624" data-external="1"></iframe>
 
-[//]: # (<iframe src="https://viz.bfs.admin.ch/assets/14/gd-14.03.04.03-wr-3/gd-e-14.03.04.03-wr-3.html" width="100%" height="400" frameborder="0" allowfullscreen="true"></iframe>)
+<iframe title="Neue Inverkehrsetzungen von Strassenfahrzeugen (Copier)" aria-label="Tabelle" id="datawrapper-chart-M5c49" src="https://datawrapper.dwcdn.net/0fb6d3928c2826fdc74284a3d7d2bf7f/1/" scrolling="no" frameborder="0" style="border: none;" width="550" height="624" data-external="1"></iframe>
+
+<iframe title="Neue Inverkehrsetzungen von Strassenfahrzeugen (Copier)" aria-label="Tabelle" id="datawrapper-chart-M5c49" src="https://datawrapper.dwcdn.net/0fb6d3928c2826fdc74284a3d7d2bf7f/1/" scrolling="no" frameborder="0" style="border: none;" width="550" height="624" data-external="1"></iframe>
+
+[//]: # (liens obslotèes<iframe src="https://viz.bfs.admin.ch/assets/14/gd-14.03.04.03-wr-3/gd-e-14.03.04.03-wr-3.html" width="100%" height="400" frameborder="0" allowfullscreen="true"></iframe>)
 
 [//]: # (<iframe src="https://viz.bfs.admin.ch/assets/14/gd-14.03.04.05-wr-5/gd-e-14.03.04.05-wr-5.html" width="100%" height="400" frameborder="0" allowfullscreen="true"></iframe>)
 
