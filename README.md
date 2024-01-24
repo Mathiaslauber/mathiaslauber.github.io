@@ -1,8 +1,5 @@
 # MathiasLauberPortefolio.github.io
-[//]: # (graphiquers BFS vérifiés jusqu'au prodima 11 compris
-https://app.datawrapper.de/table/ae1pZ/publish
-https://app.datawrapper.de/chart/t0rMw/visualize#refine
-https://app.datawrapper.de/chart/3COvj/visualize#refine)
+[//]: # (graphiquers BFS vérifiés jusqu'au prodima 11 compris https://app.datawrapper.de/table/ae1pZ/publish https://app.datawrapper.de/chart/t0rMw/visualize#refine https://app.datawrapper.de/chart/3COvj/visualize#refine)
 # Portefolio de Visualisation
 
 ## Présentation
