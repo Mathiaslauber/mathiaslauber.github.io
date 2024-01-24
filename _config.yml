@@ -4,7 +4,7 @@ showdownloads: true
 
 
 # Nom de votre site
-#name: Mathias Lauber Portefolio
+name: Mathias Lauber Portefolio
 
 # Description de votre site
 description: Bienvenue sur mon portfolio en ligne !
@@ -20,7 +20,7 @@ theme_config:
   linkedin_username: votre-nom-linkedin
 
   # Paramètres pour la barre latérale
-  show_sidebar: true
+  show_sidebar: false
   sidebar_items:
     - title: Accueil
       url: /
