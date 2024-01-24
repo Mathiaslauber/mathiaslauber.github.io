@@ -20,9 +20,9 @@ theme_config:
   linkedin_username: votre-nom-linkedin
 
   # Paramètres pour la barre latérale
-  show_sidebar: false
+  show_sidebar: true
   sidebar_items:
-    - title: Accueil
+    - title: side bar
       url: /
     - title: Projets
       url: /projects
