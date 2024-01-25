@@ -1,7 +1,7 @@
-![image](https://github.com/Mathiaslauber/MathiasLauberPortefolio.github.io/assets/37750575/d083011f-c49b-41ea-8f97-923871e8322d)[//]: # (graphiquers BFS vérifiés jusqu'au prodima 11 compris https://app.datawrapper.de/table/ae1pZ/publish https://app.datawrapper.de/chart/t0rMw/visualize#refine https://app.datawrapper.de/chart/3COvj/visualize#refine)
-## Data Visualization, (Geo)data Analyst and Sustainability Enthusiast (Climate Science, Sustainable Development/Finance).
+[//]: # (graphiquers BFS vérifiés jusqu'au prodima 11 compris https://app.datawrapper.de/table/ae1pZ/publish https://app.datawrapper.de/chart/t0rMw/visualize#refine https://app.datawrapper.de/chart/3COvj/visualize#refine)
+## Data Visualization, *(Geo)*data Analyst and Sustainability Enthusiast *(Climate Science, Sustainable Development/Finance)*
 
-#### Technical Skills: R, SQL, Js, ArcGis/QGis, LaTex
+### Technical Skills: R, SQL, Js, ArcGis/QGis, LaTex
 
 ## Education
 - M.S., Master of Science In Geosciences and Environment | The University Lausanne (_June 2022_)	 
