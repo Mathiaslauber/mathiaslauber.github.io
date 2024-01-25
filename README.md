@@ -17,7 +17,7 @@
 - Designing and coding projects for interactive and dynamic visualizations
 - Contributing to optimizing the visualization processes and tools (9000 assets per year)
 - Analyze data to extract key metrics
-<br>
+
 ## Work
 > Discover how I utilized interactive charts to illustrate various themes. These visualizations provide a deep understanding of the studied phenomena.
 
@@ -42,7 +42,7 @@
 <div style="min-height:429px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/3001d542b663e94d8d62b435a7987aef/1/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/3001d542b663e94d8d62b435a7987aef/1/full.png" alt="" /></noscript></div>
 
 </details>
-<br>
+
 ### Interactive Charts
  <div class="bfsviz-widget" data-vizid="gd-05.06.03.01.03" data-lang="en" data-state-quartal="vorquartal" data-state-typ="total" data-state-region="geoscope1" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
 <div class="bfsviz-widget" data-vizid="gd-02.02-01" data-lang="fr" data-state-year="1979/85" data-state-region="CH" data-state-ENV="desktop"></div> <script async src="https://viz.bfs.admin.ch/https://viz.bfs.admin.ch/libs/viz-bfs/widget/widget-v1.3.4.js"></script>
@@ -55,11 +55,9 @@
   <div class="bfsviz-widget" data-vizid="gd-19.02.04.01.07" data-lang="fr" data-state-category="minderjahrige" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
 </details>
 
-<br>
 ### Maps
   <div style="min-height:560px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/d0add131f4000d30db465143ff411997/5/embed.js?v=5" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/d0add131f4000d30db465143ff411997/5/full.png" alt="" /></noscript></div>
 
-<br>
 ### Small Multiples
   <div class="bfsviz-widget" data-vizid="gd-14.03.04.05-wr-5" data-lang="de" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
 <details>
@@ -67,7 +65,7 @@
    <div class="bfsviz-widget" data-vizid="gd-14.03.04.06-wr-2" data-lang="de" data-state-kanton="[ZH, BE]" data-state-ageGroup="65undmehr" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7.23/widget-v1.3.5/widget.js"></script>
 <div class="bfsviz-widget" data-vizid="gd-15.06.02-v3" data-lang="en" data-state-level="sek2" data-state-region="[&#34;CH&#34;,&#34;ZH&#34;]" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
   </details>
-<br>
+
 # Technologies Used
 
 - **Programming Languages:** JavaScript
