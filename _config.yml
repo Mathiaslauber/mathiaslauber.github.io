@@ -1,16 +1,6 @@
 title: Mathias Lauber
-logo: /img/img.jpeg
-#logo: /assets/img/headshot_circle.png
-
-
-
-
-# Thème à utiliser (minimal) ##slate
+logo: /img/img.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
-showdownloads: true
-
-
-# Paramètres globaux
-subtitle: DataViz / Data nerd
-author: Mathias Lauber
-email: Mathias.Lauber@outlook.com
