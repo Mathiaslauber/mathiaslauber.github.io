@@ -1,6 +1,17 @@
-# MathiasLauberPortefolio.github.io
 [//]: # (graphiquers BFS vérifiés jusqu'au prodima 11 compris https://app.datawrapper.de/table/ae1pZ/publish https://app.datawrapper.de/chart/t0rMw/visualize#refine https://app.datawrapper.de/chart/3COvj/visualize#refine)
-# Portefolio de Visualisation
+# Data Visualization and Sustainability Enthusiast (Climate Science, Sustainable Development/Finance).
+
+#### Technical Skills: R, SQL, AWS, Snowflake, MATLAB
+
+## Education
+- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+
+## Work Experience
+**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
+- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
 ## Présentation
 
