@@ -17,17 +17,17 @@ theme_config:
   # Liens sociaux
   github_username: votre-nom-d-utilisateur-github
   twitter_username: votre-nom-twitter
-  linkedin_username: votre-nom-linkedin
+  linkedin_username: mathias-lauber
 
   # Paramètres pour la barre latérale
   show_sidebar: true
   sidebar_items:
     - title: side bar
       url: /
-    - title: Projets
-      url: /projects
-    - title: Blog
-      url: /blog
+    - title: Linked In
+      url: /www.linkedin.com/in/mathias-lauber
+    - title: Portefolio
+      url: /https://mathiaslauber.github.io/MathiasLauberPortefolio.github.io/
 
 # Paramètres globaux
 title: Mathias Lauber
