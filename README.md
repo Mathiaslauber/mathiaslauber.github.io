@@ -33,7 +33,7 @@
   
 <div style="min-height:477px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/86caa122100936139cf91db2d2eb3a91/4/embed.js?v=4" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/86caa122100936139cf91db2d2eb3a91/4/full.png" alt="" /></noscript></div>
 
-  <div style="min-height:624px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/0fb6d3928c2826fdc74284a3d7d2bf7f/1/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/0fb6d3928c2826fdc74284a3d7d2bf7f/1/full.png" alt="" /></noscript></div>
+<div style="min-height:624px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/0fb6d3928c2826fdc74284a3d7d2bf7f/1/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/0fb6d3928c2826fdc74284a3d7d2bf7f/1/full.png" alt="" /></noscript></div>
   
 <iframe title="Part des personnes présentant une forte routine dans l'emploi, selon le sexe, l'âge, la nationalité et la formation, en 2022" aria-label="Diagramme en barres" id="datawrapper-chart-8ijFS" src="https://datawrapper.dwcdn.net/878d7d38e18b6b5a87fe5e0751839964/7/" scrolling="no" frameborder="0" style="border: none;" width="550" height="638" data-external="1"></iframe>
 
@@ -54,6 +54,7 @@
   <div class="bfsviz-widget" data-vizid="gd-05.06.03.01.02" data-lang="fr" data-state-typ="[&#34;total&#34;,&#34;efh&#34;,&#34;egw&#34;]" data-state-region="geoscope1" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
   <div class="bfsviz-widget" data-vizid="gd-19.02.04.01.07" data-lang="fr" data-state-category="minderjahrige" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
 </details>
+
 <br>
 ### Maps
   <div style="min-height:560px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/d0add131f4000d30db465143ff411997/5/embed.js?v=5" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/d0add131f4000d30db465143ff411997/5/full.png" alt="" /></noscript></div>
