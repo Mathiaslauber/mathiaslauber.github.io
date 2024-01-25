@@ -1,37 +1,16 @@
-showdownloads: true
+title: Mathias Lauber
 logo: /img/img.jpeg
 #logo: /assets/img/headshot_circle.png
 
 
 
-# Nom de votre site
-name: Mathias Lauber Portefolio
-
-# Description de votre site
-description: Bienvenue sur mon portfolio en ligne !
 
 # Thème à utiliser (minimal) ##slate
 theme: jekyll-theme-minimal
+showdownloads: true
 
-# Configuration spécifique au thème minimal
-theme_config:
-  # Liens sociaux
-  github_username: votre-nom-d-utilisateur-github
-  twitter_username: votre-nom-twitter
-  linkedin_username: mathias-lauber
-
-  # Paramètres pour la barre latérale
-  show_sidebar: true
-  sidebar_items:
-    - title: side bar
-      url: /
-    - title: Linked In
-      url: /www.linkedin.com/in/mathias-lauber
-    - title: Portefolio
-      url: /https://mathiaslauber.github.io/MathiasLauberPortefolio.github.io/
 
 # Paramètres globaux
-title: Mathias Lauber
 subtitle: DataViz / Data nerd
 author: Mathias Lauber
 email: Mathias.Lauber@outlook.com
