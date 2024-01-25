@@ -15,11 +15,15 @@ Bienvenue sur mon portefolio de visualisation, où l'art rencontre la data. Je s
  <iframe title="Part des personnes présentant une forte routine dans l'emploi, selon le sexe, l'âge, la nationalité et la formation, en 2022" aria-label="Diagramme en barres" id="datawrapper-chart-8ijFS" src="https://datawrapper.dwcdn.net/878d7d38e18b6b5a87fe5e0751839964/7/" scrolling="no" frameborder="0" style="border: none;" width="550" height="638" data-external="1"></iframe>
 
 </details>
+asd
 <div style="min-height:533px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/2a495a032a1cf8425a4152287cd52f25/5/embed.js?v=5" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/2a495a032a1cf8425a4152287cd52f25/5/full.png" alt="" /></noscript></div>
 
 <div style="min-height:477px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/86caa122100936139cf91db2d2eb3a91/4/embed.js?v=4" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/86caa122100936139cf91db2d2eb3a91/4/full.png" alt="" /></noscript></div>
+
 <div style="min-height:429px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/3001d542b663e94d8d62b435a7987aef/1/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/3001d542b663e94d8d62b435a7987aef/1/full.png" alt="" /></noscript></div>
+
 <div style="min-height:507px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/40db8e4fbf23471c261bf2077c2bd1f4/1/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/40db8e4fbf23471c261bf2077c2bd1f4/1/full.png" alt="" /></noscript></div>
+
 Découvrez comment j'ai utilisé des graphiques interactifs pour illustrer les tendances du marché financier au fil du temps. Cette visualisation offre une compréhension approfondie des fluctuations et des opportunités.
 
 <iframe title="Part des personnes présentant une forte routine dans l'emploi, selon le sexe, l'âge, la nationalité et la formation, en 2022" aria-label="Diagramme en barres" id="datawrapper-chart-8ijFS" src="https://datawrapper.dwcdn.net/878d7d38e18b6b5a87fe5e0751839964/7/" scrolling="no" frameborder="0" style="border: none;" width="550" height="638" data-external="1"></iframe>
