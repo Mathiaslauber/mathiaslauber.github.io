@@ -12,12 +12,13 @@
     - Geodata and cartography			        		
 
 
-## Work Experience
+## Experience
 **Data Vizualisation Specialist @ FSO : The Swiss Federal Statistical Office (_February 2023 - Present_)**
 - Designing and coding projects for interactive and dynamic visualizations
 - Contributing to optimizing the visualization processes and tools (9000 assets per year)
 - Analyze data to extract key metrics
-
+- 
+## Work
 > Discover how I utilized interactive charts to illustrate various themes. These visualizations provide a deep understanding of the studied phenomena.
 
 ## Basic Charts
@@ -66,51 +67,7 @@
 <div class="bfsviz-widget" data-vizid="gd-15.06.02-v3" data-lang="en" data-state-level="sek2" data-state-region="[&#34;CH&#34;,&#34;ZH&#34;]" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
   </details>
 
+# Technologies Used
 
-
-
-
-
-
-
-
-
-
-
-
-[//]: # (liens obslotèes<iframe src="https://viz.bfs.admin.ch/assets/14/gd-14.03.04.03-wr-3/gd-e-14.03.04.03-wr-3.html" width="100%" height="400" frameborder="0" allowfullscreen="true"></iframe>)
-
-[//]: # (<iframe src="https://viz.bfs.admin.ch/assets/14/gd-14.03.04.05-wr-5/gd-e-14.03.04.05-wr-5.html" width="100%" height="400" frameborder="0" allowfullscreen="true"></iframe>)
-
-
-
-
-
-
-
-
-----
-
-
-
-
-
-
-
-
-
-### 2. Cartographie Dynamique des Données Géographiques
-
-Explorez le monde à travers mes cartes interactives qui mettent en lumière des données géographiques complexes. Des cartes choroplèthes aux visualisations 3D, chaque projet offre une perspective unique sur notre planète.
-
-### 3. Graphiques Temporels Évolutifs
-
-Plongez dans l'évolution temporelle de divers phénomènes grâce à mes graphiques temporels évolutifs. Ces visualisations dynamiques révèlent des patterns et des insights souvent invisibles à l'œil nu.
-
-## Technologies Utilisées
-
-- **Langages de Programmation:** Python, JavaScript
-- **Librairies:** D3.js, Matplotlib, Plotly
-- **Outils de Visualisation:** Tableau, Power BI
-
-N'hésitez pas à explorer mes projets ci-dessous et à me contacter pour toute collaboration ou opportunité passionnante!
+- **Programming Languages:** JavaScript
+- **Visualization Tools:** Datawrapper
