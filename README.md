@@ -1,21 +1,24 @@
 [//]: # (graphiquers BFS vérifiés jusqu'au prodima 11 compris https://app.datawrapper.de/table/ae1pZ/publish https://app.datawrapper.de/chart/t0rMw/visualize#refine https://app.datawrapper.de/chart/3COvj/visualize#refine)
-## Data Visualization and Sustainability Enthusiast (Climate Science, Sustainable Development/Finance).
+## Data Visualization, (Geo)data Analyst and Sustainability Enthusiast (Climate Science, Sustainable Development/Finance).
 
-#### Technical Skills: R, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: R, SQL, Js, ArcGis/QGis, LaTex
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
 - B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Master of Science In Geosciences and Environment | The University Lausanne (_December 2019_)	 
+  - Modules included:
+    - Data–cleaning, information processing, and visualization
+    - Networks and spatial modelling
+    - Sustainability 
+    - Geodata and cartography			        		
+
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-## Présentation
-
-Bienvenue sur mon portefolio de visualisation, où l'art rencontre la data. Je suis passionné par la création d'expériences visuelles captivantes à partir de données complexes. Explorez mes projets ci-dessous pour découvrir comment j'ai transformé des informations abstraites en visualisations riches et accessibles.
+**Data Vizualisation Specialist @ FSO : The Swiss Federal Statistical Office (_February 2023 - Present_)**
+- Designing and coding projects for interactive and dynamic visualizations
+- Contributing to optimizing the visualization processes and tools (9000 assets per year)
+- Analyze data to extract key metrics
 
 ## Projets Principaux
 
