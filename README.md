@@ -1,5 +1,5 @@
 [//]: # (graphiquers BFS vérifiés jusqu'au prodima 11 compris https://app.datawrapper.de/table/ae1pZ/publish https://app.datawrapper.de/chart/t0rMw/visualize#refine https://app.datawrapper.de/chart/3COvj/visualize#refine)
-# Data Visualization and Sustainability Enthusiast (Climate Science, Sustainable Development/Finance).
+## Data Visualization and Sustainability Enthusiast (Climate Science, Sustainable Development/Finance).
 
 #### Technical Skills: R, SQL, AWS, Snowflake, MATLAB
 
