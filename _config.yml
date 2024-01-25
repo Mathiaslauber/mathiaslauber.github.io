@@ -1,5 +1,6 @@
 showdownloads: true
-logo: img.jpeg
+logo: /img.jpeg
+#logo: /assets/img/headshot_circle.png
 
 
 
