@@ -1,7 +1,7 @@
 [//]: # (graphiquers BFS vérifiés jusqu'au prodima 11 compris https://app.datawrapper.de/table/ae1pZ/publish https://app.datawrapper.de/chart/t0rMw/visualize#refine https://app.datawrapper.de/chart/3COvj/visualize#refine)
 ## Data Visualization, <br>*(Geo)*data Analyst <br>Sustainability Enthusiast *(Climate Science, Sustainable Development/Finance)*
 
-[![LinkedIn](/img/linkedin.png)](www.linkedin.com/in/mathias-lauber)
+<img src="/img/linkedin.png" alt=".." width ="50%"> [![LinkedIn](/img/linkedin.png)](www.linkedin.com/in/mathias-lauber)
 
 [Contact Me via mail](mailto:mathias.lauber@outlook.com)
 
