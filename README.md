@@ -1,26 +1,31 @@
 [//]: # (graphiquers BFS vérifiés jusqu'au prodima 11 compris https://app.datawrapper.de/table/ae1pZ/publish https://app.datawrapper.de/chart/t0rMw/visualize#refine https://app.datawrapper.de/chart/3COvj/visualize#refine)
 ## Data Visualization, <br>*(Geo)*data Analyst <br>Sustainability Enthusiast *(Climate Science, Sustainable Development/Finance)*
+Hi, I'm [Visualization](#), a passionate developer.
+
 [![LinkedIn](linkedin.png)](www.linkedin.com/in/mathias-lauber)
 
 ### Technical Skills: R, SQL, Js, ArcGis/QGis, LaTex
 **Programming Languages:**
 
-R: 90% <progress value="90" max="100"></progress>
+<progress value="90" max="100"></progress> R
 
-ArcGis/QGis: 90% <progress value="90" max="100"></progress>
+<progress value="90" max="100"></progress> ArcGis/QGis
 
-LaTex: 90% <progress value="90" max="100"></progress>
+<progress value="90" max="100"></progress> LaTex
 
-Js and DataViz library <progress value="60" max="100"></progress>
+<progress value="60" max="100"></progress> Js and DataViz library 
 
-SQL: 50% <progress value="80" max="100"></progress>
+<progress value="80" max="100"></progress> SQL
 
 
 ## Education
-- M.S., Master of Science In Geosciences and Environment | The University Lausanne (_June 2022_)	 
+**Geocsciences and Environement**
+- B.S., Bachelor of Science : Geography | The University Lausanne (_June 2022_)	
+- M.S., Master of Science : Spatial Analysis and Complex Systems | The University Lausanne (_June 2022_)	 
   - Modules included:
     - Data–cleaning, information processing, and visualization
     - Networks and spatial modelling
+    - Statistics
     - Sustainability 
     - Geodata and cartography			        		
 
