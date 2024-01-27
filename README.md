@@ -3,12 +3,13 @@
 Hi, I'm [Visualization](#), a passionate developer.
 
 [![LinkedIn](linkedin.png)](www.linkedin.com/in/mathias-lauber)
-[Contact Me](mailto:mathias.lauber@outlook.com)
 
-### Technical Skills: R, SQL, Js, ArcGis/QGis, LaTex
-**Programming Languages:**
+[Contact Me via mail](mailto:mathias.lauber@outlook.com)
+**Mathias.Lauber@outlook.com**
 
-<progress value="90" max="100"></progress> R
+**Technical Skills:**
+
+R <progress value="90" max="100"></progress> R
 <progress value="90" max="100"></progress> ArcGis/QGis
 <progress value="70" max="100"></progress> Js and DataViz library 
 <progress value="50" max="100"></progress> SQL
@@ -17,7 +18,7 @@ Hi, I'm [Visualization](#), a passionate developer.
 ## Education
 **Geocsciences and Environement** University of Lausanne
 - B.S., Bachelor of Science : Geography | (_2016-2019_)	
-- M.S., Master of Science : Spatial Analysis and Complex Systems | The University Lausanne (_2019-2022_)	 
+- M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)	 
   - Modules included:
     - Data–cleaning, information processing, and visualization
     - Networks and spatial modelling
@@ -43,7 +44,7 @@ Hi, I'm [Visualization](#), a passionate developer.
  <iframe title="Différences de revenu médian après contrôle des variables sociodémographiques
 " aria-label="Diagramme en barres" id="datawrapper-chart-2jv3Z" src="https://datawrapper.dwcdn.net/6f4461a8fe4a9032a203ba4a9afc6e93/10/" scrolling="no" frameborder="0" style="border: none;" width="770" height="704" data-external="1"></iframe>
 <details>
-   <summary>Click for more</summary>
+   <summary>Click for more basic charts</summary>
 <iframe title="Comparative key figures on gender equality" aria-label="Range Plot" id="datawrapper-chart-pm15L" src="https://datawrapper.dwcdn.net/86caa122100936139cf91db2d2eb3a91/5/" scrolling="no" frameborder="0" style="border: none;" width="550" height="484" data-external="1"></iframe>
 
 <iframe title="Neue Inverkehrsetzungen von Strassenfahrzeugen" aria-label="Tabelle" id="datawrapper-chart-ZC0Gp" src="https://datawrapper.dwcdn.net/44b7cd7742a4c8cbde25957f5773fd6b/5/" scrolling="no" frameborder="0" style="border: none;" width="550" height="703" data-external="1"></iframe>
@@ -55,6 +56,7 @@ Hi, I'm [Visualization](#), a passionate developer.
 <iframe title="The rise and fall of cigarette consumption in developed countries" aria-label="Interactive line chart" id="datawrapper-chart-HrsaC" src="https://datawrapper.dwcdn.net/3001d542b663e94d8d62b435a7987aef/2/" scrolling="no" frameborder="0" style="border: none;" width="465" height="429" data-external="1"></iframe>
 
 </details>
+<br>
 
 ### Interactive Charts
  <div class="bfsviz-widget" data-vizid="gd-05.06.03.01.03" data-lang="en" data-state-quartal="vorquartal" data-state-typ="total" data-state-region="geoscope1" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
@@ -62,27 +64,27 @@ Hi, I'm [Visualization](#), a passionate developer.
 <div class="bfsviz-widget" data-vizid="gd-02.02-01" data-lang="fr" data-state-year="1979/85" data-state-region="CH" data-state-ENV="desktop"></div> <script async src="https://viz.bfs.admin.ch/https://viz.bfs.admin.ch/libs/viz-bfs/widget/widget-v1.3.4.js"></script>
 
 <details>
-  <summary>Click for more</summary>
+  <summary>Click for more Interactive Charts</summary>
   <div class="bfsviz-widget" data-vizid="gd-14.03.04.03-wr-3" data-lang="en" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
   
   <div class="bfsviz-widget" data-vizid="gd-02.02-04-UF" data-lang="fr" data-state-region="CH" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
   
-  <div class="bfsviz-widget" data-vizid="gd-05.06.03.01.02" data-lang="fr" data-state-typ="[&#34;total&#34;,&#34;efh&#34;,&#34;egw&#34;]" data-state-region="geoscope1" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
+  <div class="bfsviz-widget" data-vizid="gd-05.06.03.01.02" data-lang="fr" data-state-typ="[total,efh,egw]" data-state-region="geoscope1" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
   
   <div class="bfsviz-widget" data-vizid="gd-19.02.04.01.07" data-lang="fr" data-state-category="minderjahrige" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
   
 </details>
-
+<br>
 ### Maps
 <iframe title="The five most frequent last names by commune¹, 2022" aria-label="Map" id="datawrapper-chart-16EcY" src="https://datawrapper.dwcdn.net/d0add131f4000d30db465143ff411997/5/" scrolling="no" frameborder="0" style="border: none;" width="600" height="560" data-external="1"></iframe>
-
+<br>
 ### Small Multiples
   <div class="bfsviz-widget" data-vizid="gd-14.03.04.05-wr-5" data-lang="de" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
 <details>
-  <summary>Click for more</summary>
+  <summary>Click for more Small Multiples</summary>
    <div class="bfsviz-widget" data-vizid="gd-14.03.04.06-wr-2" data-lang="de" data-state-kanton="[ZH, BE]" data-state-ageGroup="65undmehr" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7.23/widget-v1.3.5/widget.js"></script>
   
-<div class="bfsviz-widget" data-vizid="gd-15.06.02-v3" data-lang="en" data-state-level="sek2" data-state-region="[&#34;CH&#34;,&#34;ZH&#34;]" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
+<div class="bfsviz-widget" data-vizid="gd-15.06.02-v3" data-lang="en" data-state-level="sek2" data-state-region="[CH,ZH]" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
   </details>
 
 # Technologies Used
