@@ -1,12 +1,18 @@
 [//]: # (graphiquers BFS vérifiés jusqu'au prodima 11 compris https://app.datawrapper.de/table/ae1pZ/publish https://app.datawrapper.de/chart/t0rMw/visualize#refine https://app.datawrapper.de/chart/3COvj/visualize#refine)
 ## Data Visualization, <br>*(Geo)*data Analyst <br>Sustainability Enthusiast *(Climate Science, Sustainable Development/Finance)*
+[![LinkedIn](linkedin.png)](www.linkedin.com/in/mathias-lauber)
 
 ### Technical Skills: R, SQL, Js, ArcGis/QGis, LaTex
 **Programming Languages:**
+
 R: 90% <progress value="90" max="100"></progress>
+
 ArcGis/QGis: 90% <progress value="90" max="100"></progress>
+
 LaTex: 90% <progress value="90" max="100"></progress>
+
 Js and DataViz library <progress value="60" max="100"></progress>
+
 SQL: 50% <progress value="80" max="100"></progress>
 
 
