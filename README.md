@@ -2,6 +2,13 @@
 ## Data Visualization, <br>*(Geo)*data Analyst <br>Sustainability Enthusiast *(Climate Science, Sustainable Development/Finance)*
 
 ### Technical Skills: R, SQL, Js, ArcGis/QGis, LaTex
+**Programming Languages:**
+R: 90% <progress value="90" max="100"></progress>
+ArcGis/QGis: 90% <progress value="90" max="100"></progress>
+LaTex: 90% <progress value="90" max="100"></progress>
+Js and DataViz library <progress value="60" max="100"></progress>
+SQL: 50% <progress value="80" max="100"></progress>
+
 
 ## Education
 - M.S., Master of Science In Geosciences and Environment | The University Lausanne (_June 2022_)	 
