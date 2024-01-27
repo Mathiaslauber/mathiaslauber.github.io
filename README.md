@@ -44,7 +44,9 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
  <iframe title="Différences de revenu médian après contrôle des variables sociodémographiques
 " aria-label="Diagramme en barres" id="datawrapper-chart-2jv3Z" src="https://datawrapper.dwcdn.net/6f4461a8fe4a9032a203ba4a9afc6e93/10/" scrolling="no" frameborder="0" style="border: none;" width="770" height="704" data-external="1"></iframe>
 <details>
+  
    <summary>Click for more basic charts</summary>
+   
 <iframe title="Comparative key figures on gender equality" aria-label="Range Plot" id="datawrapper-chart-pm15L" src="https://datawrapper.dwcdn.net/86caa122100936139cf91db2d2eb3a91/5/" scrolling="no" frameborder="0" style="border: none;" width="550" height="484" data-external="1"></iframe>
 
 <iframe title="Neue Inverkehrsetzungen von Strassenfahrzeugen" aria-label="Tabelle" id="datawrapper-chart-ZC0Gp" src="https://datawrapper.dwcdn.net/44b7cd7742a4c8cbde25957f5773fd6b/5/" scrolling="no" frameborder="0" style="border: none;" width="550" height="703" data-external="1"></iframe>
@@ -59,12 +61,14 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 <br>
 
 ### Interactive Charts
+
  <div class="bfsviz-widget" data-vizid="gd-05.06.03.01.03" data-lang="en" data-state-quartal="vorquartal" data-state-typ="total" data-state-region="geoscope1" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
  
 <div class="bfsviz-widget" data-vizid="gd-02.02-01" data-lang="fr" data-state-year="1979/85" data-state-region="CH" data-state-ENV="desktop"></div> <script async src="https://viz.bfs.admin.ch/https://viz.bfs.admin.ch/libs/viz-bfs/widget/widget-v1.3.4.js"></script>
 
 <details>
   <summary>Click for more Interactive Charts</summary>
+  
   <div class="bfsviz-widget" data-vizid="gd-14.03.04.03-wr-3" data-lang="en" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
   
   <div class="bfsviz-widget" data-vizid="gd-02.02-04-UF" data-lang="fr" data-state-region="CH" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
