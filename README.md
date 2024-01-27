@@ -3,6 +3,7 @@
 Hi, I'm [Visualization](#), a passionate developer.
 
 [![LinkedIn](linkedin.png)](www.linkedin.com/in/mathias-lauber)
+[Contact Me](mailto:mathias.lauber@outlook.com)
 
 ### Technical Skills: R, SQL, Js, ArcGis/QGis, LaTex
 **Programming Languages:**
