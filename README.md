@@ -10,15 +10,14 @@ Hi, I'm [Visualization](#), a passionate developer.
 
 <progress value="90" max="100"></progress> R
 <progress value="90" max="100"></progress> ArcGis/QGis
-<progress value="90" max="100"></progress> LaTex
-<progress value="60" max="100"></progress> Js and DataViz library 
-<progress value="80" max="100"></progress> SQL
+<progress value="70" max="100"></progress> Js and DataViz library 
+<progress value="50" max="100"></progress> SQL
 
 
 ## Education
-**Geocsciences and Environement**
-- B.S., Bachelor of Science : Geography | The University Lausanne (_June 2022_)	
-- M.S., Master of Science : Spatial Analysis and Complex Systems | The University Lausanne (_June 2022_)	 
+**Geocsciences and Environement** University of Lausanne
+- B.S., Bachelor of Science : Geography | (_2016-2019_)	
+- M.S., Master of Science : Spatial Analysis and Complex Systems | The University Lausanne (_2019-2022_)	 
   - Modules included:
     - Data–cleaning, information processing, and visualization
     - Networks and spatial modelling
