@@ -2,10 +2,9 @@
 ## Data Visualization, <br>*(Geo)*data Analyst <br>Sustainability Enthusiast *(Climate Science, Sustainable Development/Finance)*
 
 [//]: # (<img src="/img/linkedin.png" alt=".." width ="50%"> )
-[//] [![LinkedIn](/img/linkedin.png)](www.linkedin.com/in/mathias-lauber)--)
 
-[Contact Me via mail](mailto:mathias.lauber@outlook.com)
-[Linked In](www.linkedin.com/in/mathias-lauber)
+(<img src="/img/linkedin.png" alt=".." width ="30%"> ) [Contact Me via mail](mailto:mathias.lauber@outlook.com)
+(<img src="/img/mail.png" alt=".." width ="30%"> ) [Linked In](www.linkedin.com/in/mathias-lauber)
 
 **Mathias.Lauber@outlook.com**
 
