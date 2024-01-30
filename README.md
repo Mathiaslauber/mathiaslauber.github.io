@@ -9,7 +9,8 @@
 
 - - - -
 [//]: # (<img src="/img/linkedin.png" alt=".." width ="50%"> )
-[!Linked In](www.linkedin.com/in/mathias-lauber)
+[Visit my LinkedIn profile](https://www.linkedin.com/in/mathias-lauber)
+
 [![LinkedIn Logo](./img/linkedin.png)](https://www.linkedin.com/in/mathias-lauber)
 
 <img src="./img/linkedin.png" alt=".." width ="10%">  
