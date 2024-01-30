@@ -9,11 +9,10 @@
 
 - - - -
 [//]: # (<img src="/img/linkedin.png" alt=".." width ="50%"> )
-
+[Linked In](www.linkedin.com/in/mathias-lauber)
 <img src="./img/linkedin.png" alt=".." width ="10%">  
 [Contact Me via mail](mailto:mathias.lauber@outlook.com)
 <img src="./img/mail.png" alt=".." width ="10%">  
-[Linked In](www.linkedin.com/in/mathias-lauber)
 
 **Mathias.Lauber@outlook.com**
 
