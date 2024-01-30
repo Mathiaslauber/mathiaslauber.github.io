@@ -3,8 +3,8 @@
 
 [//]: # (<img src="/img/linkedin.png" alt=".." width ="50%"> )
 
-(<img src="/img/linkedin.png" alt=".." width ="30%"> ) [Contact Me via mail](mailto:mathias.lauber@outlook.com)
-(<img src="/img/mail.png" alt=".." width ="30%"> ) [Linked In](www.linkedin.com/in/mathias-lauber)
+<img src="/img/linkedin.png" alt=".." width ="30%">  [Contact Me via mail](mailto:mathias.lauber@outlook.com)
+<img src="/img/mail.png" alt=".." width ="30%">  [Linked In](www.linkedin.com/in/mathias-lauber)
 
 **Mathias.Lauber@outlook.com**
 
