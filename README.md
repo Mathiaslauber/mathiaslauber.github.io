@@ -11,8 +11,6 @@
 [//]: # (<img src="/img/linkedin.png" alt=".." width ="50%"> )
 [Visit my LinkedIn profile](https://www.linkedin.com/in/mathias-lauber)
 
-[![LinkedIn Logo](./img/linkedin.png)](https://www.linkedin.com/in/mathias-lauber)
-
 <img src="./img/linkedin.png" alt=".." width ="10%">  
 [Contact Me via mail](mailto:mathias.lauber@outlook.com)
 <img src="./img/mail.png" alt=".." width ="10%">  
