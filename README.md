@@ -9,13 +9,23 @@ I am in <span style="font-family:Papyrus; font-size:4em;">a</span>
 ### Sustainability Enthusiast 
 *(Climate Science, Sustainable Development/Finance)*
 
+I am a  
+<span style="font-family:Papyrus; font-size:2.5em; color:#4CAF50; font-weight:bold;">Data Visualization</span>,  
+<span style="font-family:Papyrus; font-size:2.5em; color:#2196F3; font-weight:bold;">(Geo)data Analyst</span>,  
+<span style="font-family:Papyrus; font-size:2.5em; color:#FFC107; font-weight:bold;">Sustainability Enthusiast</span>  
+(<span style="font-family:Papyrus; font-size:2.5em; color:#FF5722; font-weight:bold;">Climate Science, Sustainable Development/Finance</span>).
+
 
 ---
+
+***
+
+- - - -
 [//]: # (<img src="/img/linkedin.png" alt=".." width ="50%"> )
 
-<img src="/img/linkedin.png" alt=".." width ="30%">  
+<img src="./img/linkedin.png" alt=".." width ="30%">  
 [Contact Me via mail](mailto:mathias.lauber@outlook.com)
-<img src="/img/mail.png" alt=".." width ="30%">  
+<img src="./img/mail.png" alt=".." width ="30%">  
 [Linked In](www.linkedin.com/in/mathias-lauber)
 
 **Mathias.Lauber@outlook.com**
