@@ -23,8 +23,10 @@
 
 
 ## Education
-**Geocsciences and Environement** University of Lausanne
+**Geocsciences and Environement**, University of Lausanne
+
 B.S., Bachelor of Science : Geography | (_2016-2019_)	
+
 M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)	 
   - Modules included:
     - Data–cleaning, information processing, and visualization
