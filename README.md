@@ -20,6 +20,7 @@
 </div>
 <br>
 **Technical Skills:**
+
 | R | <progress value="90" max="100"></progress> 90% |
 | ArcGis/QGis | <progress value="75" max="100"></progress> 75% |
 | Js and DataViz library | <progress value="60" max="100"></progress> 60% |
