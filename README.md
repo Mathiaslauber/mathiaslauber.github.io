@@ -109,7 +109,7 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
   
 <div class="bfsviz-widget" data-vizid="gd-15.06.02-v3" data-lang="en" data-state-level="sek2" data-state-region="[CH,ZH]" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
   </details>
-
+<br>
 # Technologies Used
 
 - **Programming Languages:** JavaScript
