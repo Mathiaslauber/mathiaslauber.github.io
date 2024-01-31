@@ -13,13 +13,23 @@
 
 <img src="./img/mail.png" alt=".." width ="7%"> [Contact Me via mail](mailto:mathias.lauber@outlook.com)
  
-
+<div style="text-align: center;">
+  <img src="./img/linkedin.png" alt=".." width="7%" style="vertical-align: middle;">
+  <a href="**mailto:mathias.lauber@outlook.com**" style="vertical-align: middle;">Visit my LinkedIn profile</a>
+</div>
+<div style="text-align: center;">
+  <img src="./img/mail.png" alt=".." width="7%" style="vertical-align: middle;">
+  <a href="mailto:mathias.lauber@outlook.com" style="vertical-align: middle;">Contact Me via mail</a>
+</div>
 
 **Technical Skills:**
 
-<progress value="90" max="100"></progress>R
-<progress value="90" max="100"></progress>ArcGis/QGis
-<progress value="70" max="100"></progress>Js and DataViz library 
+R
+<progress value="90" max="100"></progress>
+ArcGis/QGis
+<progress value="90" max="100"></progress>
+Js and DataViz library 
+<progress value="70" max="100"></progress>
 
 
 ## Education
