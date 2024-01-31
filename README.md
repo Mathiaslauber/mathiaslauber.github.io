@@ -17,10 +17,9 @@
 
 **Technical Skills:**
 
-<progress value="90" max="100"></progress> R
-<progress value="90" max="100"></progress> ArcGis/QGis
-<progress value="70" max="100"></progress> Js and DataViz library 
-<progress value="50" max="100"></progress> SQL
+<progress value="90" max="100"></progress>R
+<progress value="90" max="100"></progress>ArcGis/QGis
+<progress value="70" max="100"></progress>Js and DataViz library 
 
 
 ## Education
