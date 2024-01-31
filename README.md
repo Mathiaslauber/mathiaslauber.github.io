@@ -13,18 +13,16 @@
 <div style="text-align: left;">
   <img src="./img/linkedin.png" alt=".." width="7%" style="vertical-align: middle;">
   <a href="**mailto:mathias.lauber@outlook.com**" style="vertical-align: middle;">Visit my LinkedIn profile</a>
-</div>  
+</div><div style="height: 10px;"></div>
 <div style="text-align: left;">
   <img src="./img/mail.png" alt=".." width="7%" style="vertical-align: middle;">
   <a href="mailto:mathias.lauber@outlook.com" style="vertical-align: middle;">Contact Me via mail</a>
 </div>
-
+<br>
 **Technical Skills:**
-
 | R | <progress value="90" max="100"></progress> 90% |
 | ArcGis/QGis | <progress value="75" max="100"></progress> 75% |
 | Js and DataViz library | <progress value="60" max="100"></progress> 60% |
-
 
 ## Education
 **Geocsciences and Environement**, University of Lausanne
