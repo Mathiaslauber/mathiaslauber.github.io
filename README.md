@@ -21,9 +21,9 @@
 <br>
 **Technical Skills:**
 
-| R | <progress value="90" max="100"></progress> 90% |
-| ArcGis/QGis | <progress value="75" max="100"></progress> 75% |
-| Js and DataViz library | <progress value="60" max="100"></progress> 60% |
+| R | <progress value="90" max="100"></progress>  |
+| ArcGis/QGis | <progress value="80" max="100"></progress> |
+| Js and DataViz library | <progress value="70" max="100"></progress> |
 
 ## Education
 **Geocsciences and Environement**, University of Lausanne
@@ -32,12 +32,13 @@ B.S., Bachelor of Science : Geography | (_2016-2019_)
 M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 
   - Modules included:
-    - Data–cleaning, information processing, and visualization
+    - Data wrangling-Visualization
+    - Quantitative Assessment Methods
     - Networks and spatial modelling
     - Statistics
     - Sustainability 
-    - Geodata and cartography			        		
-
+    - Geodata and mapping
+    - Sustainability assessments
 
 ## Experience
 **Data Vizualisation Specialist @ FSO : The Swiss Federal Statistical Office (_February 2023 - Present_)**
