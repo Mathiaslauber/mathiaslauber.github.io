@@ -1,5 +1,4 @@
 [//]: # (graphiquers BFS vérifiés jusqu'au prodima 11 compris https://app.datawrapper.de/table/ae1pZ/publish https://app.datawrapper.de/chart/t0rMw/visualize#refine https://app.datawrapper.de/chart/3COvj/visualize#refine)
-<img src="/img/imgv2.png" alt="Logo" width="30" height="20">
 
 # Data Visualization,
 
