@@ -12,8 +12,9 @@
 
 <div style="text-align: left;">
   <img src="./img/linkedin.png" alt=".." width="7%" style="vertical-align: middle;">
-  <a href="[www.linkedin.com/in/mathias-lauber](https://www.linkedin.com/in/mathias-lauber/)" style="vertical-align: middle;">Visit my LinkedIn profile</a>
-</div><div style="height: 10px;"></div>
+  <a href="https://www.linkedin.com/in/mathias-lauber/" style="vertical-align: middle;">Visit my LinkedIn profile</a>
+</div>
+<div style="height: 10px;"></div>
 <div style="text-align: left;">
   <img src="./img/mail.png" alt=".." width="7%" style="vertical-align: middle;">
   <a href="mailto:mathias.lauber@outlook.com" style="vertical-align: middle;">Contact Me via mail</a>
