@@ -4,3 +4,7 @@ description: Mathias.Lauber@outlook.com
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+# Sidebar settings
+sidebar:
+  position: left  # or right
+  sticky: true    # Set to true if you want a sticky sidebar
