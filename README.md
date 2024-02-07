@@ -8,7 +8,6 @@
 *(Climate Science, Sustainable Development/Finance)*
 
 - - - -
-[//]: # (<img src="/img/linkedin.png" alt=".." width ="50%"> )
 
 <div style="text-align: left;">
   <img src="./img/linkedin.png" alt=".." width="7%" style="vertical-align: middle;">
@@ -52,8 +51,6 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 
 ## Basic Charts
 <iframe title="Public expenditure by function, 2021" aria-label="Table" id="datawrapper-chart-60vzP" src="https://datawrapper.dwcdn.net/2a495a032a1cf8425a4152287cd52f25/6/" scrolling="no" frameborder="0" style="border: none;" width="550" height="548" data-external="1"></iframe>
-
-[//]: # (<div style="min-height:533px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/2a495a032a1cf8425a4152287cd52f25/5/embed.js?v=5" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/2a495a032a1cf8425a4152287cd52f25/5/full.png" alt="" /></noscript></div>)
 
  <iframe title="Différences de revenu médian après contrôle des variables sociodémographiques" aria-label="Diagramme en barres" id="datawrapper-chart-2jv3Z" src="https://datawrapper.dwcdn.net/6f4461a8fe4a9032a203ba4a9afc6e93/10/" scrolling="no" frameborder="0" style="border: none;" width="770" height="704" data-external="1"></iframe>
 <details>
@@ -101,7 +98,7 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
   <summary>Click for more Small Multiples</summary>
    <div class="bfsviz-widget" data-vizid="gd-14.03.04.06-wr-2" data-lang="en" data-state-kanton="[ZH, BE]" data-state-ageGroup="65undmehr" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7.23/widget-v1.3.5/widget.js"></script>
   
-<div class="bfsviz-widget" data-vizid="gd-15.06.02-v3" data-lang="en" data-state-level="[sek2]" data-state-region="[CH,ZH]" data-state-ENV="desktop"></div><script async 
+<div class="bfsviz-widget" data-vizid="gd-15.06.02-v3" data-lang="en" data-state-level="sek2" data-state-region="[CH,ZH]" data-state-ENV="desktop"></div><script async 
 src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
   </details>
 <br>
