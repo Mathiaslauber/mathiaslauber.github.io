@@ -8,3 +8,8 @@ theme: jekyll-theme-minimal
 sidebar:
   position: right  # or right
   sticky: true    # Set to true if you want a sticky sidebar
+  # Custom CSS settings
+custom_css:
+  logo:
+    max-width: 50px
+    height: auto
