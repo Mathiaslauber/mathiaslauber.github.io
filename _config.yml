@@ -6,5 +6,5 @@ google_analytics:
 theme: jekyll-theme-minimal
 # Sidebar settings
 sidebar:
-  position: left  # or right
+  position: right  # or right
   sticky: true    # Set to true if you want a sticky sidebar
