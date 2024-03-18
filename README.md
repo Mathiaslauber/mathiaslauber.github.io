@@ -87,8 +87,7 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
   
   <div class="bfsviz-widget" data-vizid="gd-05.06.03.01.02" data-lang="fr" data-state-typ="[total,efh,egw]" data-state-region="geoscope1" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
   
-  <div class="bfsviz-widget" data-vizid="gd-19.02.04.01.07" data-lang="fr" data-state-category="minderjahrige" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
-  
+
 </details>
 <br>
 ### Maps
@@ -106,5 +105,4 @@ src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widg
 <br>
 # Technologies Used
 
-- **Programming Languages:** JavaScript
-- **Visualization Tools:** Datawrapper
+**Programming Languages/ Visualization Tools** JavaScript, D3.js, dynvis library (d3.js), Datawrapper
