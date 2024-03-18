@@ -71,7 +71,6 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 <br>
 
 ### Interactive Charts
-
  
 <div class="bfsviz-widget" data-vizid="gd-02.02-01" data-lang="en" data-state-year="1979/85" data-state-region="CH" data-state-ENV="desktop"></div> <script async src="https://viz.bfs.admin.ch/https://viz.bfs.admin.ch/libs/viz-bfs/widget/widget-v1.3.4.js"></script>
 
