@@ -15,7 +15,7 @@
 </div>
 <br>
 **Technical Skills:**
-| R | <progress value="90" max="100"></progress>  |
+| R | <progress value="90" max="100"></progress> |
 | ArcGis/QGis | <progress value="80" max="100"></progress> |
 | Js and DataViz library | <progress value="70" max="100"></progress> |
 ## Education
@@ -58,9 +58,7 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 <details>
   <summary>Click for more Interactive Charts</summary>
   <div class="bfsviz-widget" data-vizid="gd-02.02-04-UF" data-lang="fr" data-state-region="CH" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
-
 <div class="bfsviz-widget" data-vizid="gd-19.02.04.01.07" data-lang="fr" data-state-category="minderjahrige" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
-
 </details>
 <br>
 ### Maps
@@ -71,8 +69,6 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 <details>
   <summary>Click for more Small Multiples</summary>
    <div class="bfsviz-widget" data-vizid="gd-14.03.04.06-wr-2" data-lang="en" data-state-kanton="[ZH, BE]" data-state-ageGroup="65undmehr" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7.23/widget-v1.3.5/widget.js"></script>
-  
-  
   </details>
 <br>
 # Technologies Used
