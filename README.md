@@ -63,7 +63,6 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 
 <iframe title="Grafiktitel" aria-label="Tabelle" id="datawrapper-chart-FCSBk" src="https://datawrapper.dwcdn.net/40db8e4fbf23471c261bf2077c2bd1f4/1/" scrolling="no" frameborder="0" style="border: none;" width="598" height="507" data-external="1"></iframe>
 
-<iframe title="The rise and fall of cigarette consumption in developed countries" aria-label="Interactive line chart" id="datawrapper-chart-HrsaC" src="https://datawrapper.dwcdn.net/3001d542b663e94d8d62b435a7987aef/2/" scrolling="no" frameborder="0" style="border: none;" width="465" height="429" data-external="1"></iframe>
 
 </details>
 <br>
@@ -73,6 +72,8 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 <div class="bfsviz-widget" data-vizid="gd-02.02-01" data-lang="en" data-state-year="1979/85" data-state-region="CH" data-state-ENV="desktop"></div> <script async src="https://viz.bfs.admin.ch/https://viz.bfs.admin.ch/libs/viz-bfs/widget/widget-v1.3.4.js"></script>
 
 <div class="bfsviz-widget" data-vizid="gd-14.03.04.03-wr-3" data-lang="en" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
+
+<div class="bfsviz-widget" data-vizid="gd-09.03.02.01-10" data-lang="fr" data-state-household="taillemenage" data-state-ENV="desktop" data-state-year="2022"></div> <script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
 
 <details>
   <summary>Click for more Interactive Charts</summary>
