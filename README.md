@@ -43,7 +43,7 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 - Designing and coding projects for interactive and dynamic visualizations
 - Contributing to optimizing the visualization processes and tools (9000 assets per year)
 - Analyze data to extract key metrics
-- 
+
 ## Work
 > Discover how I utilized interactive charts to illustrate various themes. These visualizations provide a deep understanding of the studied phenomena.
 > 
