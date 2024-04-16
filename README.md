@@ -46,7 +46,7 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 
 ## Work
 > Discover how I utilized interactive charts to illustrate various themes. These visualizations provide a deep understanding of the studied phenomena.
-> 
+
 ## Basic Charts
 <iframe title="Public expenditure by function, 2021" aria-label="Table" id="datawrapper-chart-60vzP" src="https://datawrapper.dwcdn.net/2a495a032a1cf8425a4152287cd52f25/6/" scrolling="no" frameborder="0" style="border: none;" width="550" height="548" data-external="1"></iframe>
 
@@ -69,18 +69,21 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 
 ### Interactive Charts
 
-<div class="bfsviz-widget" data-vizid="gd-02.02-01" data-lang="en" data-state-year="1979/85" data-state-region="CH" data-state-ENV="desktop"></div> <script async src="https://viz.bfs.admin.ch/https://viz.bfs.admin.ch/libs/viz-bfs/widget/widget-v1.3.4.js"></script>
+<div class="bfsviz-widget" data-vizid="gd-02.02-01" data-lang="en" data-state-year="1979/85" data-state-region="CH" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
 
-<div class="bfsviz-widget" data-vizid="gd-14.03.04.03-wr-3" data-lang="en" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
+<div class="bfsviz-widget" data-vizid="gd-14.03.04.03-wr-3" data-lang="en" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
 
-
+<div class="bfsviz-widget" data-vizid="gd-05.06.03.01.03" data-lang="fr" data-state-quartal="vorjahresquartal" data-state-typ="total" data-state-region="geoscope4" data-state-ENV="desktop"></div> <script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
+<div class="bfsviz-widget" data-vizid="gr-15.06.01-fluss-v2" data-lang="fr" data-state-year="" data-state-ENV="desktop"></div> <script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>  
 <br>
 <details>
   <summary>Click for more Interactive Charts</summary>
-  
-  <div class="bfsviz-widget" data-vizid="gd-02.02-04-UF" data-lang="fr" data-state-region="CH" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
-  
-<div class="bfsviz-widget" data-vizid="gd-19.02.04.01.07" data-lang="fr" data-state-category="minderjahrige" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
+<div class="bfsviz-widget" data-vizid="gd-20.03.04-prec" data-lang="fr" data-state-pop="[&#34;pahrunter65jahr&#34;,&#34;einelternhaushalte&#34;,&#34;paarekind&#34;]" data-state-ENV="desktop"></div>
+<script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
+ <div class="bfsviz-widget" data-vizid="gd-11.03.02.02.02b" data-lang="fr" data-state-Personenwagen="PC" data-state-ENV="desktop"></div> <script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script> 
+<div class="bfsviz-widget" data-vizid="gd-02.02-04-UF" data-lang="fr" data-state-region="CH" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script> 
+<div class="bfsviz-widget" data-vizid="gd-02.02-04-UF" data-lang="fr" data-state-region="CH" data-state-ENV="desktop"></div>
+<script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script> 
 
 </details>
 <br>
@@ -92,11 +95,11 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 
 ### Small Multiples
 
-  <div class="bfsviz-widget" data-vizid="gd-14.03.04.05-wr-5" data-lang="en" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.6/widget.js"></script>
+<div class="bfsviz-widget" data-vizid="gd-14.03.04.05-wr-5" data-lang="en" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
 <details>
   <summary>Click for more Small Multiples</summary>
   
-   <div class="bfsviz-widget" data-vizid="gd-14.03.04.06-wr-2" data-lang="en" data-state-kanton="[ZH, BE]" data-state-ageGroup="65undmehr" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7.23/widget-v1.3.5/widget.js"></script>
+   <div class="bfsviz-widget" data-vizid="gd-14.03.04.06-wr-2" data-lang="en" data-state-kanton="[ZH, BE]" data-state-ageGroup="65undmehr" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
    
   </details>
 <br>
