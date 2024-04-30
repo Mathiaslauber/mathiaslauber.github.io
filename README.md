@@ -43,9 +43,14 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 - Designing and coding projects for interactive and dynamic visualizations
 - Contributing to optimizing the visualization processes and tools (9000 assets per year)
 - Analyze data to extract key metrics
-
+<br>
+## Technologies Used 
+**Programming Languages/ Visualization Tools:** JavaScript, D3.js, dynvis library (d3.js), Datawrapper
+**Note:** All dataviz have a responsive layout, allowing their use on mobile phone, wide screens. The datasource and metadata files for the visualisations are data-driven and automatically updated.
+<br>
 ## Work
 > Discover how I utilized interactive charts to illustrate various themes. These visualizations provide a deep understanding of the studied phenomena.
+
 
 ## Basic Charts
 <iframe title="Public expenditure by function, 2021" aria-label="Table" id="datawrapper-chart-60vzP" src="https://datawrapper.dwcdn.net/2a495a032a1cf8425a4152287cd52f25/6/" scrolling="no" frameborder="0" style="border: none;" width="550" height="548" data-external="1"></iframe>
@@ -103,6 +108,4 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
    <div class="bfsviz-widget" data-vizid="gd-14.03.04.06-wr-2" data-lang="en" data-state-kanton="[ZH, BE]" data-state-ageGroup="65undmehr" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
    
   </details>
-<br>
-# Technologies Used
-**Programming Languages/ Visualization Tools** JavaScript, D3.js, dynvis library (d3.js), Datawrapper
+
