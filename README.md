@@ -61,8 +61,8 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 <iframe title="Différences de revenu médian après contrôle des variables sociodémographiques" aria-label="Diagramme en barres" id="datawrapper-chart-2jv3Z" src="https://datawrapper.dwcdn.net/6f4461a8fe4a9032a203ba4a9afc6e93/10/" scrolling="no" frameborder="0" style="border: none;" width="770" height="704" data-external="1"></iframe>
 <details>
 <br>
+
 <summary>Click for more basic charts</summary>
-   
 <iframe title="Comparative key figures on gender equality" aria-label="Range Plot" id="datawrapper-chart-pm15L" src="https://datawrapper.dwcdn.net/86caa122100936139cf91db2d2eb3a91/5/" scrolling="no" frameborder="0" style="border: none;" width="550" height="484" data-external="1"></iframe>
   
 <iframe title="Neue Inverkehrsetzungen von Strassenfahrzeugen" aria-label="Tabelle" id="datawrapper-chart-ZC0Gp" src="https://datawrapper.dwcdn.net/44b7cd7742a4c8cbde25957f5773fd6b/5/" scrolling="no" frameborder="0" style="border: none;" width="550" height="703" data-external="1"></iframe>
