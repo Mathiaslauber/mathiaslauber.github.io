@@ -66,8 +66,6 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 <iframe title="Comparative key figures on gender equality" aria-label="Range Plot" id="datawrapper-chart-pm15L" src="https://datawrapper.dwcdn.net/86caa122100936139cf91db2d2eb3a91/5/" scrolling="no" frameborder="0" style="border: none;" width="550" height="484" data-external="1"></iframe>
   
 <iframe title="Neue Inverkehrsetzungen von Strassenfahrzeugen" aria-label="Tabelle" id="datawrapper-chart-ZC0Gp" src="https://datawrapper.dwcdn.net/44b7cd7742a4c8cbde25957f5773fd6b/5/" scrolling="no" frameborder="0" style="border: none;" width="550" height="703" data-external="1"></iframe>
-  
-<iframe title="Part des personnes présentant une forte routine dans l'emploi, selon le sexe, l'âge, la nationalité et la formation, en 2022" aria-label="Diagramme en barres" id="datawrapper-chart-8ijFS" src="https://datawrapper.dwcdn.net/878d7d38e18b6b5a87fe5e0751839964/7/" scrolling="no" frameborder="0" style="border: none;" width="550" height="638" data-external="1"></iframe>
 
 <iframe title="Grafiktitel" aria-label="Tabelle" id="datawrapper-chart-FCSBk" src="https://datawrapper.dwcdn.net/40db8e4fbf23471c261bf2077c2bd1f4/1/" scrolling="no" frameborder="0" style="border: none;" width="598" height="507" data-external="1"></iframe>
 
@@ -81,15 +79,15 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 
 <div class="bfsviz-widget" data-vizid="gd-14.03.04.03-wr-3" data-lang="en" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
 
-<div class="bfsviz-widget" data-vizid="gd-05.06.03.01.03" data-lang="fr" data-state-quartal="vorjahresquartal" data-state-typ="total" data-state-region="geoscope4" data-state-ENV="desktop"></div> <script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
-<div class="bfsviz-widget" data-vizid="gr-15.06.01-fluss-v2" data-lang="fr" data-state-year="" data-state-ENV="desktop"></div> <script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>  
+<div class="bfsviz-widget" data-vizid="gd-05.06.03.01.03" data-lang="en" data-state-quartal="vorjahresquartal" data-state-typ="total" data-state-region="geoscope4" data-state-ENV="desktop"></div> <script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
+<div class="bfsviz-widget" data-vizid="gr-15.06.01-fluss-v2" data-lang="en" data-state-year="" data-state-ENV="desktop"></div> <script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>  
 
 <details>
   <summary>Click for more Interactive Charts</summary>
-<div class="bfsviz-widget" data-vizid="gd-20.03.04-prec" data-lang="fr" data-state-pop="[&#34;pahrunter65jahr&#34;,&#34;einelternhaushalte&#34;,&#34;paarekind&#34;]" data-state-ENV="desktop"></div>
+<div class="bfsviz-widget" data-vizid="gd-20.03.04-prec" data-lang="en" data-state-pop="[&#34;pahrunter65jahr&#34;,&#34;einelternhaushalte&#34;,&#34;paarekind&#34;]" data-state-ENV="desktop"></div>
 <script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
 <div class="bfsviz-widget" data-vizid="gd-11.03.02.02.02b" data-lang="en" data-state-Personenwagen="PC" data-state-ENV="desktop"></div> <script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
-<div class="bfsviz-widget" data-vizid="gd-02.02-04-UF" data-lang="fr" data-state-region="CH" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script> 
+<div class="bfsviz-widget" data-vizid="gd-02.02-04-UF" data-lang="en" data-state-region="CH" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script> 
 <div class="bfsviz-widget" data-vizid="gd-09.03.02.01-10" data-lang="en" data-state-household="taillemenage" data-state-ENV="desktop" data-state-year="2022"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
 <div class="bfsviz-widget" data-vizid="gd-09.03.02.01.02" data-lang="de" data-state-ENV="desktop" data-state-year="2022"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
 <div class="bfsviz-widget" data-vizid="gr-14.05.07-2024" data-lang="fr" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
