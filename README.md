@@ -86,7 +86,7 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
   <summary>Click for more Interactive Charts</summary>
 <div class="bfsviz-widget" data-vizid="gd-20.03.04-prec" data-lang="fr" data-state-pop="[&#34;pahrunter65jahr&#34;,&#34;einelternhaushalte&#34;,&#34;paarekind&#34;]" data-state-ENV="desktop"></div>
 <script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
-<div class="bfsviz-widget" data-vizid="gd-11.03.02.02.02b" data-lang="fr" data-state-Personenwagen="PC" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
+<div class="bfsviz-widget" data-vizid="gd-11.03.02.02.02b" data-lang="de" data-state-Personenwagen="PC" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
 <div class="bfsviz-widget" data-vizid="gd-02.02-04-UF" data-lang="en" data-state-region="CH" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script> 
 <div class="bfsviz-widget" data-vizid="gd-09.03.02.01-10" data-lang="en" data-state-household="taillemenage" data-state-ENV="desktop" data-state-year="2022"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
 
