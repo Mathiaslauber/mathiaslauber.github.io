@@ -56,11 +56,10 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 
 ## Basic Charts
 <iframe title="Public expenditure by function, 2021" aria-label="Table" id="datawrapper-chart-60vzP" src="https://datawrapper.dwcdn.net/2a495a032a1cf8425a4152287cd52f25/6/" scrolling="no" frameborder="0" style="border: none;" width="550" height="548" data-external="1"></iframe>
-
+<br>
 <iframe title="Différences de revenu médian après contrôle des variables sociodémographiques" aria-label="Diagramme en barres" id="datawrapper-chart-2jv3Z" src="https://datawrapper.dwcdn.net/6f4461a8fe4a9032a203ba4a9afc6e93/10/" scrolling="no" frameborder="0" style="border: none;" width="770" height="704" data-external="1"></iframe>
 <details>
-
-
+<br>
 <summary>Click for more basic charts</summary>
    
 <iframe title="Comparative key figures on gender equality" aria-label="Range Plot" id="datawrapper-chart-pm15L" src="https://datawrapper.dwcdn.net/86caa122100936139cf91db2d2eb3a91/5/" scrolling="no" frameborder="0" style="border: none;" width="550" height="484" data-external="1"></iframe>
