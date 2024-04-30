@@ -44,6 +44,7 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 - Contributing to optimizing the visualization processes and tools (9000 assets per year)
 - Analyze data to extract key metrics
 <br>
+
 ## Technologies Used 
 **Programming Languages/ Visualization Tools:** JavaScript, D3.js, dynvis library (d3.js), Datawrapper
 **Note:** All dataviz have a responsive layout, allowing their use on mobile phone, wide screens. The datasource and metadata files for the visualisations are data-driven and automatically updated.
