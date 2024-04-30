@@ -89,8 +89,7 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 <div class="bfsviz-widget" data-vizid="gd-11.03.02.02.02b" data-lang="en" data-state-Personenwagen="PC" data-state-ENV="desktop"></div> <script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
 <div class="bfsviz-widget" data-vizid="gd-02.02-04-UF" data-lang="en" data-state-region="CH" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script> 
 <div class="bfsviz-widget" data-vizid="gd-09.03.02.01-10" data-lang="en" data-state-household="taillemenage" data-state-ENV="desktop" data-state-year="2022"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
-<div class="bfsviz-widget" data-vizid="gd-09.03.02.01.02" data-lang="de" data-state-ENV="desktop" data-state-year="2022"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
-<div class="bfsviz-widget" data-vizid="gr-14.05.07-2024" data-lang="fr" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
+
 </details>
 <br>
 
