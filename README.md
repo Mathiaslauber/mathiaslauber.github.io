@@ -14,7 +14,7 @@
 <div style="height: 10px;"></div>
 <div style="text-align: left;">
   <img src="./img/mail.png" alt=".." width="7%" style="vertical-align: middle;">
-  <a href="mailto:mathias.lauber@outlook.com" style="vertical-align: middle;">Contact me via mail</a>
+  <a href="mailto:mathias.lauber@outlook.com" style="vertical-align: middle;">Contact me by email</a>
 </div>
 <br>
 **Technical Skills:**
