@@ -55,7 +55,6 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 
 
 ## Basic Charts
-<iframe src="https://www.mobilitaetsverhalten.bfs.admin.ch" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"></iframe>
 
 <iframe title="Public expenditure by function, 2021" aria-label="Table" id="datawrapper-chart-60vzP" src="https://datawrapper.dwcdn.net/2a495a032a1cf8425a4152287cd52f25/6/" scrolling="no" frameborder="0" style="border: none;" width="550" height="548" data-external="1"></iframe>
 <br>
