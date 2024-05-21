@@ -20,8 +20,8 @@
 **Technical Skills:**
 
 | R | <progress value="90" max="100"></progress>  |
-| ArcGis/QGis | <progress value="80" max="100"></progress> |
-| Js and DataViz library | <progress value="70" max="100"></progress> |
+| Js and DataViz library | <progress value="80" max="100"></progress> |
+| ArcGis/QGis | <progress value="70" max="100"></progress> |
 
 ## Education
 **Geocsciences and Environement**, University of Lausanne
