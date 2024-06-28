@@ -55,7 +55,7 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 
 ## Scrolly Telling
 <iframe src="https://genderequality.bfs.admin.ch/en/" height="405" width="720" allowfullscreen="" allow="autoplay"></iframe>
-[Visit scrolly telling here for enhanced performance](https://www.mobilitaetsverhalten.bfs.admin.ch)
+[Visit scrolly telling here for enhanced performance](https://genderequality.bfs.admin.ch/en/)
 > coming soon:  a new scrolly telling about the gender equality thema is under progress.
 
 <br>
