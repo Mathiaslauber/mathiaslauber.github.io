@@ -81,21 +81,27 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 <br>
 
 ### Interactive Charts
+<div class="bfsviz-widget" data-vizid="gd-11.03.02.01-02" data-lang="f" data-state-choice="[&#34;0&#34;,&#34;2&#34;]" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.8/widget-v1.4/widget.js"></script>
 
 <div class="bfsviz-widget" data-vizid="gd-02.02-01" data-lang="en" data-state-year="1979/85" data-state-region="CH" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
 
 <div class="bfsviz-widget" data-vizid="gd-14.03.04.03-wr-3" data-lang="en" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
 
 <div class="bfsviz-widget" data-vizid="gd-05.06.03.01.03" data-lang="en" data-state-quartal="vorjahresquartal" data-state-typ="total" data-state-region="geoscope4" data-state-ENV="desktop"></div> <script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
-<div class="bfsviz-widget" data-vizid="gr-15.06.01-fluss-v2" data-lang="en" data-state-year="" data-state-ENV="desktop"></div> <script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>  
+<div class="bfsviz-widget" data-vizid="gr-15.06.01-fluss-v2" data-lang="en" data-state-year="" data-state-ENV="desktop"></div> <script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js">
+</script>  
+<div class="bfsviz-widget" data-vizid="gd-13.05.01.04" data-lang="f" data-state-category="[&#34;Suisse&#34;,&#34;StatutS&#34;,&#34;PermisFRefugies7Minus&#34;]" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.8/widget.js"></script>
+
+<div class="bfsviz-widget" data-vizid="gd-11.03.02.01-02" data-lang="f" data-state-choice="[&#34;0&#34;,&#34;2&#34;]" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.8/widget-v1.4/widget.js"></script>
 
 <details>
   <summary>Click for more Interactive Charts</summary>
-<div class="bfsviz-widget" data-vizid="gd-20.03.04-prec" data-lang="fr" data-state-pop="[&#34;pahrunter65jahr&#34;,&#34;einelternhaushalte&#34;,&#34;paarekind&#34;]" data-state-ENV="desktop"></div>
-<script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
+<div class="bfsviz-widget" data-vizid="gr-11.06.01.01.02-je" data-lang="f" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.8/widget.js"></script>
+<div class="bfsviz-widget" data-vizid="gr-01.05.03.01.01-su" data-lang="f" data-state-unit="value" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.8/widget.js"></script>
 <div class="bfsviz-widget" data-vizid="gd-11.03.02.02.02b" data-lang="de" data-state-Personenwagen="PC" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
 <div class="bfsviz-widget" data-vizid="gd-02.02-04-UF" data-lang="en" data-state-region="CH" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script> 
-<div class="bfsviz-widget" data-vizid="gd-09.03.02.01-10" data-lang="en" data-state-household="taillemenage" data-state-ENV="desktop" data-state-year="2022"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
+<div class="bfsviz-widget" data-vizid="gr-11.02.01-06" data-lang="f" data-state-name="Coûts du transport de personnes selon la forme de transport et le type de coûts, en 2021" data-state-allowDataUpload="false" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.8/widget.js"></script>
+<div class="bfsviz-widget" data-vizid="gd-21.05.02.02.10-ind" data-lang="f" data-state-choice="[&#34;1061901&#34;,&#34;5192901&#34;]" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.8/widget-v1.4/widget.js"></script>
 
 </details>
 <br>
@@ -106,7 +112,7 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 <br>
 
 ### Small Multiples
-
+<div class="bfsviz-widget" data-vizid="gr-15.11.03-e-23" data-lang="f" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.8/widget.js"></script>
 <div class="bfsviz-widget" data-vizid="gd-14.03.04.05-wr-5" data-lang="en" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
 <details>
   <summary>Click for more Small Multiples</summary>
