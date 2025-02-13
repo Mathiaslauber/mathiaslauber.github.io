@@ -81,7 +81,6 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 <br>
 
 ### Interactive Charts
-<div class="bfsviz-widget" data-vizid="gd-11.03.02.01-02" data-lang="f" data-state-choice="[&#34;0&#34;,&#34;2&#34;]" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.8/widget-v1.4/widget.js"></script>
 
 <div class="bfsviz-widget" data-vizid="gd-02.02-01" data-lang="en" data-state-year="1979/85" data-state-region="CH" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
 
@@ -92,10 +91,11 @@ M.S., Master of Science : Spatial Analysis and Complex Systems | (_2019-2022_)
 </script>  
 <div class="bfsviz-widget" data-vizid="gd-13.05.01.04" data-lang="f" data-state-category="[&#34;Suisse&#34;,&#34;StatutS&#34;,&#34;PermisFRefugies7Minus&#34;]" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.8/widget.js"></script>
 
-<div class="bfsviz-widget" data-vizid="gd-11.03.02.01-02" data-lang="f" data-state-choice="[&#34;0&#34;,&#34;2&#34;]" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.8/widget-v1.4/widget.js"></script>
 
 <details>
   <summary>Click for more Interactive Charts</summary>
+<div class="bfsviz-widget" data-vizid="gd-11.03.02.01-02" data-lang="f" data-state-choice="[&#34;0&#34;,&#34;2&#34;]" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.8/widget-v1.4/widget.js"></script>
+
 <div class="bfsviz-widget" data-vizid="gr-11.06.01.01.02-je" data-lang="f" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.8/widget.js"></script>
 <div class="bfsviz-widget" data-vizid="gr-01.05.03.01.01-su" data-lang="f" data-state-unit="value" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.8/widget.js"></script>
 <div class="bfsviz-widget" data-vizid="gd-11.03.02.02.02b" data-lang="de" data-state-Personenwagen="PC" data-state-ENV="desktop"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
