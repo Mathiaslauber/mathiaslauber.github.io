@@ -1,0 +1,214 @@
+---
+title: "Portfolio"
+subtitle: "Interactive Data Visualizations — Swiss Federal Statistical Office"
+---
+
+> All visualizations below were produced at the **Swiss Federal Statistical Office (FSO)**. They feature live data feeds, interactive controls, and responsive layouts for mobile to desktop.
+
+---
+
+## Scrolly Telling {.section-title}
+
+::: {.viz-card}
+<span class="cat-badge">Scrolly Telling</span>
+
+### Gender Equality in Switzerland
+An immersive narrative visualization exploring gender equality indicators across Switzerland.
+
+<a href="https://genderequality.bfs.admin.ch/en/" class="btn btn-primary btn-sm mb-2" target="_blank" rel="noopener">Open full screen ↗</a>
+
+<div class="iframe-wrap">
+  <iframe src="https://genderequality.bfs.admin.ch/en/" height="500" style="width:100%; border:none;" loading="lazy" title="Gender Equality Scrollytelling"></iframe>
+</div>
+:::
+
+---
+
+## Interactive Charts {.section-title}
+
+::: {.row .g-4}
+
+::: {.col-lg-6}
+::: {.viz-card}
+<span class="cat-badge">Interactive</span>
+
+### Household Size & Population
+<div class="bfsviz-widget" data-vizid="gd-09.03.02.01-10" data-lang="en" data-state-household="taillemenage" data-state-ENV="desktop" data-state-year="2022"></div>
+<script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
+:::
+:::
+
+::: {.col-lg-6}
+::: {.viz-card}
+<span class="cat-badge">Interactive</span>
+
+### Construction & Housing
+<div class="bfsviz-widget" data-vizid="gd-02.02-01" data-lang="en" data-state-year="1979/85" data-state-region="CH" data-state-ENV="desktop"></div>
+<script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
+:::
+:::
+
+::: {.col-lg-6}
+::: {.viz-card}
+<span class="cat-badge">Interactive</span>
+
+### Vehicle Registration
+<div class="bfsviz-widget" data-vizid="gd-14.03.04.03-wr-3" data-lang="en" data-state-ENV="desktop"></div>
+<script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
+:::
+:::
+
+::: {.col-lg-6}
+::: {.viz-card}
+<span class="cat-badge">Interactive</span>
+
+### Employment & Labour Market
+<div class="bfsviz-widget" data-vizid="gd-05.06.03.01.03" data-lang="en" data-state-quartal="vorjahresquartal" data-state-typ="total" data-state-region="geoscope4" data-state-ENV="desktop"></div>
+<script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
+:::
+:::
+
+::: {.col-lg-6}
+::: {.viz-card}
+<span class="cat-badge">Interactive</span>
+
+### Migration & Permits
+<div class="bfsviz-widget" data-vizid="gd-13.05.01.04" data-lang="en" data-state-category="[&#34;Suisse&#34;,&#34;StatutS&#34;,&#34;PermisFRefugies7Minus&#34;]" data-state-ENV="desktop"></div>
+<script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.8/widget.js"></script>
+:::
+:::
+
+::: {.col-lg-6}
+::: {.viz-card}
+<span class="cat-badge">Interactive</span>
+
+### Energy Flows
+<div class="bfsviz-widget" data-vizid="gr-15.06.01-fluss-v2" data-lang="en" data-state-year="" data-state-ENV="desktop"></div>
+<script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
+:::
+:::
+
+::: {.col-lg-6}
+::: {.viz-card}
+<span class="cat-badge">Interactive</span>
+
+### Agriculture Production
+<div class="bfsviz-widget" data-vizid="gr-01.05.03.01.01-su" data-lang="en" data-state-unit="value" data-state-ENV="desktop"></div>
+<script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.8/widget.js"></script>
+:::
+:::
+
+::: {.col-lg-6}
+::: {.viz-card}
+<span class="cat-badge">Interactive</span>
+
+### Sustainable Development Indicators
+<div class="bfsviz-widget" data-vizid="gd-21.05.02.02.10-ind" data-lang="en" data-state-choice="[&#34;1061901&#34;,&#34;5192901&#34;]" data-state-ENV="desktop"></div>
+<script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.8/widget-v1.4/widget.js"></script>
+:::
+:::
+
+:::
+
+---
+
+## Maps {.section-title}
+
+::: {.viz-card}
+<span class="cat-badge">Map</span>
+
+### Most Frequent Last Names by Commune, 2022
+<iframe title="The five most frequent last names by commune, 2022" aria-label="Map" src="https://datawrapper.dwcdn.net/d0add131f4000d30db465143ff411997/5/" scrolling="no" frameborder="0" style="width:100%; border:none;" height="560" loading="lazy"></iframe>
+:::
+
+---
+
+## Basic Charts {.section-title}
+
+::: {.row .g-4}
+
+::: {.col-lg-6}
+::: {.viz-card}
+<span class="cat-badge">Table</span>
+
+### Public Expenditure by Function, 2021
+<iframe title="Public expenditure by function, 2021" aria-label="Table" src="https://datawrapper.dwcdn.net/2a495a032a1cf8425a4152287cd52f25/6/" scrolling="no" frameborder="0" style="width:100%; border:none;" height="548" loading="lazy"></iframe>
+:::
+:::
+
+::: {.col-lg-6}
+::: {.viz-card}
+<span class="cat-badge">Range Plot</span>
+
+### Gender Equality — Key Figures
+<iframe title="Comparative key figures on gender equality" aria-label="Range Plot" src="https://datawrapper.dwcdn.net/86caa122100936139cf91db2d2eb3a91/5/" scrolling="no" frameborder="0" style="width:100%; border:none;" height="484" loading="lazy"></iframe>
+:::
+:::
+
+::: {.col-lg-6}
+::: {.viz-card}
+<span class="cat-badge">Bar Chart</span>
+
+### Median Income Differences
+<iframe title="Différences de revenu médian" aria-label="Diagramme en barres" src="https://datawrapper.dwcdn.net/6f4461a8fe4a9032a203ba4a9afc6e93/10/" scrolling="no" frameborder="0" style="width:100%; border:none;" height="704" loading="lazy"></iframe>
+:::
+:::
+
+::: {.col-lg-6}
+::: {.viz-card}
+<span class="cat-badge">Table</span>
+
+### Road Vehicle Sales
+<iframe title="Neue Inverkehrsetzungen von Strassenfahrzeugen" aria-label="Tabelle" src="https://datawrapper.dwcdn.net/44b7cd7742a4c8cbde25957f5773fd6b/5/" scrolling="no" frameborder="0" style="width:100%; border:none;" height="703" loading="lazy"></iframe>
+:::
+:::
+
+:::
+
+---
+
+## Small Multiples {.section-title}
+
+::: {.row .g-4}
+
+::: {.col-lg-6}
+::: {.viz-card}
+<span class="cat-badge">Small Multiples</span>
+
+### Energy & Environment
+<div class="bfsviz-widget" data-vizid="gr-15.11.03-e-23" data-lang="en" data-state-ENV="desktop"></div>
+<script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.8/widget.js"></script>
+:::
+:::
+
+::: {.col-lg-6}
+::: {.viz-card}
+<span class="cat-badge">Small Multiples</span>
+
+### Vehicle Fleet by Canton
+<div class="bfsviz-widget" data-vizid="gd-14.03.04.05-wr-5" data-lang="en" data-state-ENV="desktop"></div>
+<script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
+:::
+:::
+
+::: {.col-lg-6}
+::: {.viz-card}
+<span class="cat-badge">Small Multiples</span>
+
+### Vehicle Fleet Trends
+<div class="bfsviz-widget" data-vizid="gd-14.03.04.06-wr-2" data-lang="en" data-state-kanton="[ZH, BE]" data-state-ageGroup="65undmehr" data-state-ENV="desktop"></div>
+<script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.7/widget.js"></script>
+:::
+:::
+
+::: {.col-lg-6}
+::: {.viz-card}
+<span class="cat-badge">Small Multiples</span>
+
+### Transport Costs, 2021
+<div class="bfsviz-widget" data-vizid="gr-11.02.01-06" data-lang="en" data-state-name="Transport costs 2021" data-state-allowDataUpload="false" data-state-ENV="desktop"></div>
+<script async src="https://viz.bfs.admin.ch/libs/viz-bfs/dynvis/dynvis-v0.7/widget-v1.3.8/widget.js"></script>
+:::
+:::
+
+:::

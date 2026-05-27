@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mathias Lauber"
+  description: "Data Visualization & Geodata Specialist"
+  navbar:
+    background: "#1a252f"
+    foreground: light
+    title: "Mathias Lauber"
+    left:
+      - href: index.qmd
+        text: "About"
+      - href: portfolio.qmd
+        text: "Portfolio"
+    right:
+      - href: "https://www.linkedin.com/in/mathias-lauber/"
+        text: "LinkedIn ↗"
+      - href: "mailto:mathias.lauber@outlook.com"
+        text: "✉ Contact"
+  page-footer:
+    background: "#1a252f"
+    foreground: light
+    center: "© 2025 Mathias Lauber · Data Visualization & Geodata Specialist"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+    smooth-scroll: true

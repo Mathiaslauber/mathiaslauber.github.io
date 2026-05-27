@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "All visualizations below were produced at the Swiss Federal Statistical Office (FSO). They feature live data feeds, interactive controls, and responsive layouts for mobile to desktop."
+  },
+  {
+    "objectID": "portfolio.html#scrolly-telling",
+    "href": "portfolio.html#scrolly-telling",
+    "title": "Portfolio",
+    "section": "Scrolly Telling",
+    "text": "Scrolly Telling\n\nScrolly Telling\n\nGender Equality in Switzerland\nAn immersive narrative visualization exploring gender equality indicators across Switzerland.\nOpen full screen ↗"
+  },
+  {
+    "objectID": "portfolio.html#interactive-charts",
+    "href": "portfolio.html#interactive-charts",
+    "title": "Portfolio",
+    "section": "Interactive Charts",
+    "text": "Interactive Charts\n\n\n\nInteractive\n\nHousehold Size & Population\n\n\n\n\n\n\n\n\n\nInteractive\n\nConstruction & Housing\n\n\n\n\n\n\n\n\n\nInteractive\n\nVehicle Registration\n\n\n\n\n\n\n\n\n\nInteractive\n\nEmployment & Labour Market\n\n\n\n\n\n\n\n\n\nInteractive\n\nMigration & Permits\n\n\n\n\n\n\n\n\n\nInteractive\n\nEnergy Flows\n\n\n\n\n\n\n\n\n\nInteractive\n\nAgriculture Production\n\n\n\n\n\n\n\n\n\nInteractive\n\nSustainable Development Indicators"
+  },
+  {
+    "objectID": "portfolio.html#maps",
+    "href": "portfolio.html#maps",
+    "title": "Portfolio",
+    "section": "Maps",
+    "text": "Maps\n\nMap\n\nMost Frequent Last Names by Commune, 2022"
+  },
+  {
+    "objectID": "portfolio.html#basic-charts",
+    "href": "portfolio.html#basic-charts",
+    "title": "Portfolio",
+    "section": "Basic Charts",
+    "text": "Basic Charts\n\n\n\nTable\n\nPublic Expenditure by Function, 2021\n\n\n\n\n\n\n\nRange Plot\n\nGender Equality — Key Figures\n\n\n\n\n\n\n\nBar Chart\n\nMedian Income Differences\n\n\n\n\n\n\n\nTable\n\nRoad Vehicle Sales"
+  },
+  {
+    "objectID": "portfolio.html#small-multiples",
+    "href": "portfolio.html#small-multiples",
+    "title": "Portfolio",
+    "section": "Small Multiples",
+    "text": "Small Multiples\n\n\n\nSmall Multiples\n\nEnergy & Environment\n\n\n\n\n\n\n\n\n\nSmall Multiples\n\nVehicle Fleet by Canton\n\n\n\n\n\n\n\n\n\nSmall Multiples\n\nVehicle Fleet Trends\n\n\n\n\n\n\n\n\n\nSmall Multiples\n\nTransport Costs, 2021"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mathias Lauber",
+    "section": "",
+    "text": "Data Visualization & Geodata Specialist\n\n\nSustainability · Climate Science · Sustainable Finance\n\n\n 🔗  LinkedIn   ✉  mathias.lauber@outlook.com   📊  Portfolio →"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Mathias Lauber",
+    "section": "Skills",
+    "text": "Skills\n\n  R90%\n  \n\n\n\n  JavaScript & D3.js80%\n  \n\n\n\n  ArcGIS / QGIS70%\n  \n\n\n\n  Creative & Digital Design90%"
+  },
+  {
+    "objectID": "index.html#technologies",
+    "href": "index.html#technologies",
+    "title": "Mathias Lauber",
+    "section": "Technologies",
+    "text": "Technologies\n\n\n\nVisualization\nD3.js · Datawrapper · dynvis (BFS)\n\n\nLanguages\nJavaScript · R · HTML/CSS\n\n\nGIS\nArcGIS · QGIS\n\n\nDesign\nAdobe Suite · Figma\n\n\n\n\nAll visualizations have a responsive layout optimized from mobile to wide screen. Datasource and metadata files are data-driven and automatically updated."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Mathias Lauber",
+    "section": "Experience",
+    "text": "Experience\n\n\nData Visualization Specialist\n\n\nSwiss Federal Statistical Office (FSO · OFS)\n\n\n📅 February 2023 – Present\n\n\nDesigning and coding interactive, dynamic visualizations for federal statistics publications\nContributing to and optimizing visualization pipelines (~9,000 assets/year)\nAnalyzing data to extract key metrics and build data-driven stories\nStack: JavaScript · D3.js · Datawrapper · dynvis · Responsive design"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Mathias Lauber",
+    "section": "Education",
+    "text": "Education\n\n\nMaster of Science — Spatial Analysis & Complex Systems\n\n\nUniversity of Lausanne (UNIL)\n\n\n📅 2019 – 2022 · Geosciences and Environment\n\nKey modules: Data Wrangling & Visualization · Quantitative Assessment Methods · Networks & Spatial Modelling · Statistics · Sustainability Assessments · Geodata & Mapping\n\n\n\nBachelor of Science — Geography\n\n\nUniversity of Lausanne (UNIL)\n\n\n📅 2016 – 2019 · Geosciences and Environment"
+  }
+]
